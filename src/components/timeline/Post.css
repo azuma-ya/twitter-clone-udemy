@@ -6,12 +6,16 @@
 
 .post-body {
 	flex: 1;
-	padding: 10px;
 }
 
 .post-body img {
 	border-radius: 20px;
 	width: 100%;
+}
+
+p {
+	margin: 0;
+	padding: 0;
 }
 
 .post-footer {
@@ -42,5 +46,5 @@
 }
 
 .post-avatar {
-	padding: 20px !important;
+	padding: 15px !important;
 }

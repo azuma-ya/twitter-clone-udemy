@@ -26,7 +26,7 @@ export default function Sidebar() {
 			<SidebarOption text="プロフィール" Icon={PermIdentityIcon} />
 			<SidebarOption text="もっと見る" Icon={MoreHorizIcon} />
 
-			<Button variant="outlined" className="sidebar-tweet">
+			<Button variant="outlined" className="sidebar-tweet" fullWidth>
 				ツイートする
 			</Button>
 		</div>
