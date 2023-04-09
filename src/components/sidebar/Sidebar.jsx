@@ -17,7 +17,7 @@ export default function Sidebar() {
 		<div className="sidebar">
 			<TwitterIcon className="sidebar-twitter-icon" />
 
-			<SidebarOption text="ホーム" Icon={HomeIcon} />
+			<SidebarOption text="ホーム" Icon={HomeIcon} active />
 			<SidebarOption text="話題を検索" Icon={SearchIcon} />
 			<SidebarOption text="通知" Icon={MailOutlineIcon} />
 			<SidebarOption text="メッセージ" Icon={NotificationsNoneIcon} />

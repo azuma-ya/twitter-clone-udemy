@@ -21,3 +21,7 @@
 	margin-right: 20px;
 	font-weight: 800;
 }
+
+.sidebar-option-active {
+	color: var(--twitter-color);
+}
